@@ -7,7 +7,6 @@ public class Reversi : MonoBehaviour
 {
     [SerializeField] private Cell m_cellPrefab = null;
     [SerializeField] private GridLayoutGroup m_gridLayoutGroup = null;
-    [SerializeField] private int m_mineCount = 1;
     [SerializeField] int m_indexNumX = 5;
     [SerializeField] int m_indexNumY = 5;
 
