@@ -175,7 +175,6 @@ MonoBehaviour:
   m_cellPrefab: {fileID: 1659003820346936464, guid: b0b762b1ae9c7464cadbb0fb44215b26,
     type: 3}
   m_gridLayoutGroup: {fileID: 585114101}
-  m_mineCount: 1
   m_indexNumX: 5
   m_indexNumY: 5
 --- !u!114 &585114101
@@ -195,10 +194,10 @@ MonoBehaviour:
     m_Right: 0
     m_Top: 0
     m_Bottom: 0
-  m_ChildAlignment: 0
+  m_ChildAlignment: 4
   m_StartCorner: 0
   m_StartAxis: 0
-  m_CellSize: {x: 100, y: 100}
+  m_CellSize: {x: 50, y: 50}
   m_Spacing: {x: 0, y: 0}
   m_Constraint: 0
   m_ConstraintCount: 2
